@@ -1,1 +1,1 @@
-Setting up my first repo on local machine.
+My first repo in my local machine.
